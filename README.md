@@ -1,8 +1,12 @@
-﻿# Zonation 5 Uusimaa-tutorial
+﻿# Zonation 5 Uusimaa-tutorial materials
+
+This repository contains the tutorial materials, i.e. simplified data and Zonation setups from UML (Uudenmaanliitto) analysis (Kuusterä et al. 2015).
+**To get started with the tutorial** follow the presentation and software installation directions
+on the [**course site.**](https://sustainability-gis.readthedocs.io/en/develop/lessons/L6/zonation-tutorial.html)
+
+## License
 
 *Version: 1.0 *
-
-Simplified data and setups from UML (Uudenmaanliitto) analysis (Kuusterä et al. 2015).
 
 The data and setups in this project are meant for training purposes only and do not represent a full real-life analysis.
 Data are described in more detail in READMEs in each data subfolder.
