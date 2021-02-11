@@ -1,0 +1,11 @@
+"weight" "filename"
+XX ../data/01_biodiversity_features/02_habitats/forest/birch_forest.tif
+XX ../data/01_biodiversity_features/02_habitats/forest/spruce_forest.tif
+XX ../data/01_biodiversity_features/02_habitats/forest/pine_forest.tif
+XX ../data/01_biodiversity_features/02_habitats/forest/other_deciduous_forest.tif
+XX ../data/01_biodiversity_features/02_habitats/peatlands/peatlands.tif
+XX ../data/01_biodiversity_features/02_habitats/wetlands/wetlands.tif
+XX ../data/01_biodiversity_features/02_habitats/agriculture/trad_rural_biotopes.tif
+XX ../data/01_biodiversity_features/02_habitats/agriculture/agricultural_land.tif
+XX ../data/01_biodiversity_features/01_species/redlisted_species/redlisted_species.tif
+XX ../data/01_biodiversity_features/01_species/cervidae/cervidae.tif

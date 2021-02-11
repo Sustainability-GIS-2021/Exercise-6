@@ -1,0 +1,3 @@
+feature list file = features.txt
+analysis area mask layer = ../data/00_masks/landmask.tif
+
